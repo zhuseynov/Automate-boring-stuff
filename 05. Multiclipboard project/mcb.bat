@@ -1,0 +1,1 @@
+@pyw.exe C:\Users\Zaur\Automate Boring Stuff\Automate-boring-stuff\05. Multiclipboard project\mcb.pyw %*
